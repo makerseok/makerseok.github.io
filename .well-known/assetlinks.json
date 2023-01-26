@@ -1,0 +1,6 @@
+[{
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target" : { "namespace": "android_app", "package_name": "io.github.makerseok.twa",
+                     "sha256_cert_fingerprints": ["D5:D1:16:8D:BE:E2:72:35:6B:FB:D7:63:A1:57:7D:EC:7B:34:D0:7B:0D:EB:65:52:F2:56:C8:E7:74:93:2B:87"] }
+      }
+]
