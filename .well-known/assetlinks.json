@@ -1,11 +1,25 @@
 [
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "io.github.makerseok.adwright",
-      "sha256_cert_fingerprints": [
+    "relation":[
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target":{
+      "namespace":"android_app",
+      "package_name":"io.github.makerseok.adwright",
+      "sha256_cert_fingerprints":[
         "17:B8:03:92:28:4E:D0:EC:82:F1:BC:E6:A4:0A:90:EE:62:45:DD:F5:36:D9:35:6D:67:13:F0:B9:E6:C2:E3:CB"
+      ]
+    }
+  },
+  {
+    "relation":[
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target":{
+      "namespace":"android_app",
+      "package_name":"io.github.makerseok.pwaplayer",
+      "sha256_cert_fingerprints":[
+        "D1:C8:FC:DB:F2:CE:61:A2:03:94:6E:25:4F:8F:74:96:56:1D:F9:51:71:A9:DE:CF:69:0F:39:2D:DB:B2:2F:58"
       ]
     }
   }
